@@ -1,39 +1,25 @@
 {
-    "posts": [
+    "users": [
       {
         "id": 1,
-        "title": "Post 1"
+        "nameValue" : "Touqeer Ahmad",
+        "emailValue" : "touqeer@mail.com",
+        "phoneValue" : "0321654987",
+        "passwordValue" : "123456"
       },
       {
         "id": 2,
-        "title": "Post 2"
+        "nameValue" : "Ahmad Raza",
+        "emailValue" : "raza@mail.com",
+        "phoneValue" : "0321654987",
+        "passwordValue" : "123456"
       },
       {
         "id": 3,
-        "title": "Post 3"
-      },
-      {
-        "id": 4,
-        "title": "Post 4"
-      },
-      {
-        "id": 5,
-        "title": "Post 5"
+        "nameValue" : "Ali Ahmad",
+        "emailValue" : "ali@mail.com",
+        "phoneValue" : "0321654987",
+        "passwordValue" : "123456"
       }
-    ],
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ]
   }
